@@ -1,4 +1,4 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/harshal4200/harshal4200/assets/151541351/b17a293b-3957-4c0a-980d-302e7b18aaca)
+ ![White Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/harshal4200/harshal4200/assets/151541351/b17a293b-3957-4c0a-980d-302e7b18aaca)
 
 <h1 align="center">"Hello Fellow Coders"😃</h1>
 <h3 align="center"><u><i>A BTech Student from India</i></u></h3>
